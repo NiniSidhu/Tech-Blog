@@ -6,7 +6,7 @@ const helpers = require('./utils/helpers')
 const hbs = exphbs.create({
     helpers
 });
-const PORT = process.env.PORT || 4002
+const PORT = process.env.PORT || 4002;
 const sequelize = require('./config/connection');
 const session = require('express-session');
 const routes = require(path.join(__dirname,'./controllers'));
