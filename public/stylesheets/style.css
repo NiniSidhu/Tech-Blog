@@ -22,3 +22,7 @@ padding: 0;
 .navbar-brand{
     color: red; 
 }
+
+.navbar{
+    background-color: darkgreen;
+}
