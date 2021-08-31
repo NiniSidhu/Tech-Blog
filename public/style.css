@@ -18,3 +18,7 @@ padding: 0;
 .blog-form{
     margin:.5rem 0;
 }
+
+.navbar-brand{
+    color: red; 
+}
